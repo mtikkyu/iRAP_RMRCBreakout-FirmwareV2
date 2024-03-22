@@ -18,5 +18,5 @@ To update the firmware, you will need to use ST-Link together with the STM32Cube
 | STM32CubeProgrammer | https://www.st.com/en/development-tools/stm32cubeprog.html |
 
 You can connect to the board as follows:
-![ST-LinkV2](https://github.com/mtikkyu/iRAP_RMRCBreakout-FirmwareV2/assets/57050828/36b6bf48-990f-4d01-966b-19828f21654d)
-![ST-LinkV3](https://github.com/mtikkyu/iRAP_RMRCBreakout-FirmwareV2/assets/57050828/77f87a1f-f3f5-4c04-a2dc-6b7f7b2a1645)
+![ST-LinkV2](https://github.com/mtikkyu/iRAP_RMRCBreakout-FirmwareV2/assets/57050828/70b27353-65ed-4b37-908b-d6eb2f6da002)
+![ST-LinkV3](https://github.com/mtikkyu/iRAP_RMRCBreakout-FirmwareV2/assets/57050828/b1efd006-7e24-46f6-a10e-f107de026e01)
