@@ -11,5 +11,10 @@ You will need to download additional libraries to get started with the "iRAP_RMR
 
 This library has upgraded the board's firmware to make it more flexible for use than before. 
 To update the firmware, you will need to use ST-Link together with the STM32CubeProgrammer software.
+| Name | Link|
+| --- | --- |
+| ST-Link/V2 | https://www.st.com/en/development-tools/st-link-v2.html |
+| ST-Link/V3 | https://www.st.com/en/development-tools/stlink-v3set.html |
+| STM32CubeProgrammer | https://www.st.com/en/development-tools/stm32cubeprog.html |
 
 You can connect to the board as follows:
