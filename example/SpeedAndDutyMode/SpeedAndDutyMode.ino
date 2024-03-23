@@ -15,6 +15,7 @@ void setup() {
   // m3.begin();
   // m4.begin();
 
+  // After change motor mode when uploading done you should turn off board 1 time.
   m1.setMotorMode(SPEED_AND_DUTY);
   m2.setMotorMode(SPEED_AND_DUTY);
   // m3.setMotorMode(SPEED_AND_DUTY);

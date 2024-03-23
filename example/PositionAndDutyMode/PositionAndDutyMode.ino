@@ -22,6 +22,7 @@ void setup() {
   m4.begin();
 
   // Only M1 and M3 can use POSITION_AND_DUTY mode.
+  // After change motor mode when uploading done you should turn off board 1 time.
   m1.setMotorMode(POSITION_AND_DUTY);
   m2.setMotorMode(SPEED_AND_DUTY);
   m3.setMotorMode(POSITION_AND_DUTY);
